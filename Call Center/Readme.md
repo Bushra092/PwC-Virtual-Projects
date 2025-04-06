@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Call Center Report](call-center-preview.png)
+![Call Center](call-center-preview.png)
 
 ## 📌 Project Overview
 
