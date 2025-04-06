@@ -6,12 +6,12 @@ This repository contains the Power BI projects completed as part of the **PwC Sw
 
 ### 📊 Call Center
 
-![Call Center](Call Center\call-center-preview.png)
+![Call Center](Call Center/call-center-preview.png)
 
 ### 📊 Customer Churn Analysis
 
-![Customer Churn PBI - Page 1](Churn Analysis\preview1.png)  
-![Customer Churn PBI - Page 2](Churn Analysis\preview2.png)
+![Customer Churn PBI - Page 1](Churn Analysis/preview1.png)  
+![Customer Churn PBI - Page 2](Churn Analysis/preview2.png)
 
 ### 📊 Gender Equality Insights
 
