@@ -2,6 +2,8 @@
 
 This repository contains the Power BI projects completed as part of the **PwC Switzerland - Power BI Job Simulation** hosted on Forage.
 
+🧠 **Skills Applied:** Data Cleaning, DAX, Visual Analytics, Storytelling, Dashboard Design
+
 ## 🔸 Projects Included:
 
 ### 📊 Call Center
@@ -23,5 +25,3 @@ Each folder contains the respective dataset, Power BI dashboard, and a brief exp
 
 📄 **Certificate:**  
 ![PwC Certificate][![PwC Certificate](PwC-certificate.png)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_eBDsBgXEBMhK5NYqr_1741553978159_completion_certificate.pdf)
-
-🧠 **Skills Applied:** Data Cleaning, DAX, Visual Analytics, Storytelling, Dashboard Design
